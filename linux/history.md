@@ -45,7 +45,7 @@ $ history
   1  echo "1st command"
   2  watch free -h
   3  df -h
-$ !free
+$ !watch
 $ watch free -h
 ```
 
